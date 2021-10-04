@@ -1,4 +1,4 @@
-## Olá eu sou a Janaina Falco
+## Olá eu sou a Janaina Gadot Falco
 
 
 - 🔭 Quero trabalhar com front-end
