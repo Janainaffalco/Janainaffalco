@@ -19,7 +19,7 @@
   <img align="center" alt="Jana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jana-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Jana-yoda" height = "60" width = "40" src="https://media.giphy.com/media/PezNpz8oW5L1sAFsvk/giphy.gif">
+  <img align="right" alt="Jana-yoda" height = "100" width = "140" src="https://media.giphy.com/media/PezNpz8oW5L1sAFsvk/giphy.gif">
 </div>
   ##
  
