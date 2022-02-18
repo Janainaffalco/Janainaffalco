@@ -30,6 +30,6 @@
   <a href="https://www.linkedin.com/in/janaina-falco-3a76382a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
  <a href="https://www.linkedin.com/in/janaina-falco-3a76382a" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
  
- 
+ https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif
  
 </div>
