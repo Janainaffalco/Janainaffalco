@@ -22,7 +22,7 @@
   <img align="right" alt="Jana-yoda" height = "110" width = "100" src="https://media.giphy.com/media/PezNpz8oW5L1sAFsvk/giphy.gif">
 </div>
   
- 
+ <br>
 <div> 
   <a href="https://www.youtube.com/channel/UC0Dg_RnaZYsRlo1XF2Qv-Cw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/janainafalco" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
