@@ -21,7 +21,7 @@
   <img align="center" alt="Jana-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Jana-yoda" height = "110" width = "100" src="https://media.giphy.com/media/PezNpz8oW5L1sAFsvk/giphy.gif">
 </div>
-  ##
+  
  
 <div> 
   <a href="https://www.youtube.com/channel/UC0Dg_RnaZYsRlo1XF2Qv-Cw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -30,6 +30,6 @@
   <a href="https://www.linkedin.com/in/janaina-falco-3a76382a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
  <a href="https://www.linkedin.com/in/janaina-falco-3a76382a" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Janainaffalco/Janainaffalco/blob/output/github-contribution-grid-snake.svg)
+ 
  
 </div>
