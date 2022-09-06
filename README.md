@@ -1,9 +1,8 @@
 ## Olá eu sou a Janaina F. Falco
 
 
-- 🔭 Quero trabalhar com front-end
-- 🌱 Estou estudando! Quero ser uma desenvolvedora Full Stack
-- 🤔 Estou a procura de  emprego Home Office
+- 🔭 Estou em projetos de App´s
+- 🌱 Estou trabalhando como desenvolvedora de sistema I
 - 📫 Contate-me no meu e-mail janainaster@gmail.com
 - 😄 Pronouns: ela/dela
  <div>
